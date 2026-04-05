@@ -1,0 +1,11 @@
+*.tif
+*.tiff
+*.zip
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+data/
+outputs/
+*.log
+.env
